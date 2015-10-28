@@ -1,0 +1,12 @@
+{
+	"name": "chrisgriffith.ionic2bracketshints",
+	"title": "Ionic v2 Framework Code Hinting",
+	"description": "Code hinting for the Ionic Framework (version 2)",
+	"homepage": "http://www.ionicbrackets.com/",
+	"version": "0.0.1",
+	"author": "Chris Griffith <chris.griffith@gmail.com> (http://aj-software.com)",
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=0.25.0"
+	}
+}
